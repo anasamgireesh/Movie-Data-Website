@@ -1,0 +1,1 @@
+This is a webpage which shows all the popular movies and we also can add them to our watchlist and segregate according to the genre. In this project, there is a problem with Api so I have manually added the movies to represent the UI of the website. I will update once the API works
